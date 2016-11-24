@@ -1,23 +1,32 @@
-# _Template_
+# Word Puzzle
 
-#### By _Ewa Manek and Sheena Nickerson_
+#### 08.16.2016
+
+#### By Ewa Manek and Sheena Nickerson
 
 ## Description
 
-_A template website that has confirmed functional Javascript, CSS, Bootstrap (v3.3.7), and jQuery(v3.1.0)_
+This is an application that takes input from a user and replaces all vowels with the dash symbol "-" to create a word puzzle to solve. A user can then guess the original input. The goal of this exercise was to practice using loops.
 
 ## Setup/Installation Requirements
 
-* _Copy the repository from GitHub_
-* _Open the index.html file a browser of your choice_
-* _Open the console to confirm that javascript and jQuery are running_
+* `git clone https://github.com/sheenanick/word-play`
+* Open the index.html file with the browser of your choice
 
-## GitHub link
-https://github.com/rloos289/Template
+## Support and Contact Details
+
+Please feel free to contact sheenanick@gmail.com if you have any issues or questions, ideas or concerns.
+
+## Technologies Used
+
+* HTML
+* Bootstrap
+* JavaScript
+* jQuery
 
 ## Licensing
 
-* MIT
+This software is licensed under the MIT license.
 
 Copyright (c) 2016 **_Ewa Manek and Sheena Nickerson_**
 Template Copyright (c) 2016 **_Ryan Loos_**
